@@ -6,3 +6,8 @@ body{
 div{
     border: 2px black solid ;
 }
+
+footer{
+    margin-top: 15px;
+    padding: 25px;
+}
