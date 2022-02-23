@@ -2,3 +2,7 @@
 body{
     background-color:aqua
 }
+
+div{
+    border: 2px black solid ;
+}
